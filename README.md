@@ -151,6 +151,6 @@ Where:
 
 
 ### RESULT 
-
+Thus, the propagation loss and bending loss in optical fiber were calculated successfully using the given formula.
 
 
